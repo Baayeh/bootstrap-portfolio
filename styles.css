@@ -23,3 +23,12 @@ html body {
 .button:hover span {
   color: white;
 }
+
+.skill-item {
+  height: 370px;
+}
+
+.skill-img {
+  width: 150px;
+
+}
