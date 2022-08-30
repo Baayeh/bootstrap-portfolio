@@ -1,0 +1,34 @@
+html body {
+  padding: 0;
+  margin: 0;
+}
+
+.list-item {
+  font-size: 20px;
+}
+
+.paragraph-1 {
+  font-size: 24px;
+}
+
+.button {
+  border-radius: 50%;
+}
+
+.button:hover {
+  background: green;
+  border: none;
+}
+
+.button:hover span {
+  color: white;
+}
+
+.skill-item {
+  height: 370px;
+}
+
+.skill-img {
+  width: 150px;
+
+}
